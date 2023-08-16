@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "nitin",
+      "email": "nitinbhalani60@gmail.com",
+      "password": "123456",
+      "address": "e-201 shreeji sankall nikol",
+      "zip": "382350",
+      "city": "Ahmedabad ",
+      "state": "maharastra",
+      "id": 1
+    },
+    {
+      "name": "nitinbhalani",
+      "email": "nitinbhalani60@gmail.com",
+      "password": "123456",
+      "address": "e-201 shreeji sankall nikol",
+      "city": "Ahmedabad ",
+      "zip": "555555",
+      "state": "maharastra",
+      "id": 2
+    }
+  ]
+}
